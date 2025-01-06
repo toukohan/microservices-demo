@@ -1,6 +1,6 @@
-package com.example.restservice.repository;
+package com.example.product_service.repository;
 
-import com.example.restservice.model.Product;
+import com.example.product_service.model.Product;
 
 import java.util.List;
 
